@@ -1,0 +1,18 @@
+1 国内外知识图谱项目
+国外：
+常识知识库：Cyc、WordNet、ConceptNet等。
+互联网知识图谱：主要有FreeBase、DBpedia、Schema、Wikidata 、BableNet、Microsofot ConceptGraph，医疗领域Linked Life Data等。
+
+国内：
+中文知识图谱OpenKG，CN-DBpedia，中医药知识图谱，阿里电商知识图谱、美团知识图谱、XLore(清华大学)、Belief-Eigen(中科院)、PKUPie(北京大学)等。
+开放类的中文百科知识图谱http://zhishi.me等。
+
+2、网站
+
+最新的知识图谱搜索引擎Magi： https://magi.com/
+Magi 是由 Peak Labs 研发的基于机器学习的信息抽取和检索系统，它能将任何领域的自然语言文本中的知识提取成结构化的数据，通过终身学习持续聚合和纠错，进而为人类用户和其他人工智能提供可解析、可检索、可溯源的知识体系。
+
+
+OpenKG开放资源共享平台: http://OpenKG.CN
+中文开放知识图谱Schema：http://cnSchema.org
+中文开放知识图谱众包平台：Openbase   http://openbase.openkg.cn/
