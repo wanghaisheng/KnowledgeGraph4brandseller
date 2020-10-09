@@ -16,3 +16,5 @@ Magi 是由 Peak Labs 研发的基于机器学习的信息抽取和检索系统�
 OpenKG开放资源共享平台: http://OpenKG.CN
 中文开放知识图谱Schema：http://cnSchema.org
 中文开放知识图谱众包平台：Openbase   http://openbase.openkg.cn/
+
+https://github.com/cnschema
