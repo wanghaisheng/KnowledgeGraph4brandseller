@@ -18,3 +18,21 @@ OpenKG开放资源共享平台: http://OpenKG.CN
 中文开放知识图谱众包平台：Openbase   http://openbase.openkg.cn/
 
 https://github.com/cnschema
+
+CCKS2019论文下载：
+https://conference.bj.bcebos.com/ccks2019/eval/webpage/index.html
+
+法律知识图谱：
+http://bangbangyzs.cn/#
+
+这是一份通俗易懂的知识图谱技术应用落地指南：
+https://developer.51cto.com/art/201903/593471.html
+
+HiTA知识图谱：
+http://kg.omaha.org.cn/
+
+KG论坛直播地址：
+上午场9:30-12:30：
+https://appukVkRYx45804.h5.xeknow.com/st/8athmh22z
+下午场14:00-17:30：
+https://appukVkRYx45804.h5.xeknow.com/st/9eVOIUIc2
