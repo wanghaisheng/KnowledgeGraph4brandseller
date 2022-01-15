@@ -26,3 +26,71 @@ Sample metadata:
 
 ```
 有一二三级类目，有alsobuy alsoview商品间的关联关系 有feture和title 可以提取一些属性 但更多的规格信息需要额外爬取
+
+
+## 现有工作
+
+https://github.com/google-research-datasets/MAVE/tree/f886c1683367c1e9e8383ff25cd82525580dfb65
+ The dataset contains 3 million attribute-value annotations across 1257 unique categories on 2.2 million cleaned Amazon product profiles. It is a large, multi-sourced, diverse dataset for product attribute extraction study. 
+ 
+ ```
+ {
+   "id":"B0002H0A3S",
+   "category":"Guitar Strings",
+   "paragraphs":[
+      {
+         "text":"D'Addario EJ26 Phosphor Bronze Acoustic Guitar Strings, Custom Light, 11-52",
+         "source":"title"
+      },
+      {
+         "text":".011-.052 Custom Light Gauge Acoustic Guitar Strings, Phosphor Bronze",
+         "source":"description"
+      },
+      ...
+   ],
+   "attributes":[
+      {
+         "key":"Core Material",
+         "evidences":[
+            {
+               "value":"Bronze Acoustic",
+               "pid":0,
+               "begin":24,
+               "end":39
+            },
+            ...
+         ]
+      },
+      {
+         "key":"Winding Material",
+         "evidences":[
+            {
+               "value":"Phosphor Bronze",
+               "pid":0,
+               "begin":15,
+               "end":30
+            },
+            ...
+         ]
+      },
+      {
+         "key":"Gauge",
+         "evidences":[
+            {
+               "value":"Light",
+               "pid":0,
+               "begin":63,
+               "end":68
+            },
+            {
+               "value":"Light Gauge",
+               "pid":1,
+               "begin":17,
+               "end":28
+            },
+            ...
+         ]
+      }
+   ]
+}
+ ```
