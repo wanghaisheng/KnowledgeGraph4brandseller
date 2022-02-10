@@ -1,3 +1,10 @@
+https://medium.com/this-week-in-machine-learning-ai/building-the-product-knowledge-graph-at-amazon-with-luna-dong-60226caa4e92
+
+https://naixlee.github.io/Product_Knowledge_Graph_Tutorial_KDD2021/
+
+
+
+
 https://nijianmo.github.io/amazon/index.html
 
 这里有2018年的amazon评论数据，元数据如下:
