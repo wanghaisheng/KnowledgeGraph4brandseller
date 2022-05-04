@@ -10,3 +10,7 @@ https://tech.meituan.com/2018/11/01/meituan-ai-nlp.html
 
 
 
+
+Billion-scale Pre-trained E-commerce Product Knowledge Graph Model
+
+
